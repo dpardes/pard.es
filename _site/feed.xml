@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/brutalist-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/brutalist-blog/" rel="alternate" type="text/html" /><updated>2022-08-12T22:53:15-04:00</updated><id>http://localhost:4000/brutalist-blog/feed.xml</id><title type="html">DANIEL PARDES</title><subtitle>Daniel Pardes&apos; home on the Internet</subtitle><author><name>dpardes</name></author><entry><title type="html">This post demonstrates post content styles</title><link href="http://localhost:4000/brutalist-blog/2021/07/16/this-post-demonstrates-post-content-styles/" rel="alternate" type="text/html" title="This post demonstrates post content styles" /><published>2021-07-16T00:00:00-04:00</published><updated>2021-07-16T00:00:00-04:00</updated><id>http://localhost:4000/brutalist-blog/2021/07/16/this-post-demonstrates-post-content-styles</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/2021/07/16/this-post-demonstrates-post-content-styles/">&lt;p&gt;Lorem ipsum dolor sit amet, &lt;strong&gt;BOLD&lt;/strong&gt; adipiscing elit. Fusce bibendum neque eget nunc mattis eu &lt;em&gt;ITALICS&lt;/em&gt; enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/brutalist-blog/assets/images/example.jpg&quot; alt=&quot;sample image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s a sentence with a footnote. &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;some-great-heading-h2&quot;&gt;Some great heading (h2)&lt;/h2&gt;
+
+&lt;p&gt;Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.&lt;/p&gt;
+
+&lt;p&gt;Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;h3 id=&quot;blockquotes-h3&quot;&gt;Blockquotes (h3)&lt;/h3&gt;
+
+&lt;p&gt;Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This quote will &lt;em&gt;change&lt;/em&gt; your life. It will reveal the &lt;i&gt;secrets&lt;/i&gt; of the universe, and all the wonders of humanity. Don’t &lt;em&gt;misuse&lt;/em&gt; it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;code-blocks-h3&quot;&gt;Code blocks (h3)&lt;/h3&gt;
+
+&lt;p&gt;Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sayHello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Hello World&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;`Hello &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;${&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;h5 id=&quot;inline-code-pacman-h5&quot;&gt;Inline code, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pacman&lt;/code&gt; (h5)&lt;/h5&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;h3 id=&quot;oh-hai-an-unordered-list&quot;&gt;Oh hai, an unordered list!!&lt;/h3&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;First item, yo&lt;/li&gt;
+  &lt;li&gt;Second item, dawg&lt;/li&gt;
+  &lt;li&gt;Third item, what what?!&lt;/li&gt;
+  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;oh-hai-an-ordered-list&quot;&gt;Oh hai, an ordered list!!&lt;/h3&gt;
+
+&lt;p&gt;In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First item, yo&lt;/li&gt;
+  &lt;li&gt;Second item, dawg&lt;/li&gt;
+  &lt;li&gt;Third item, what what?!&lt;/li&gt;
+  &lt;li&gt;Fourth item, fo sheezy my neezy&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Title 1&lt;/th&gt;
+      &lt;th&gt;Title 2&lt;/th&gt;
+      &lt;th&gt;Title 3&lt;/th&gt;
+      &lt;th&gt;Title 4&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem&lt;/td&gt;
+      &lt;td&gt;lorem ipsum&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This is the footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>dpardes</name></author><summary type="html">Lorem ipsum dolor sit amet, BOLD adipiscing elit. Fusce bibendum neque eget nunc mattis eu ITALICS enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.</summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/brutalist-blog/2021/07/13/Hello-World/" rel="alternate" type="text/html" title="Hello World" /><published>2021-07-13T00:00:00-04:00</published><updated>2021-07-13T00:00:00-04:00</updated><id>http://localhost:4000/brutalist-blog/2021/07/13/Hello-World</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/2021/07/13/Hello-World/">&lt;p&gt;Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).&lt;/p&gt;</content><author><name>dpardes</name></author><summary type="html">Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).</summary></entry><entry><title type="html">Day 2</title><link href="http://localhost:4000/brutalist-blog/syp-month-of-making/day-2/" rel="alternate" type="text/html" title="Day 2" /><published>2017-05-02T23:24:44-04:00</published><updated>2017-05-02T23:24:44-04:00</updated><id>http://localhost:4000/brutalist-blog/syp-month-of-making/day-2</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/syp-month-of-making/day-2/">&lt;iframe allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;422&quot; loading=&quot;lazy&quot; src=&quot;https://www.youtube.com/embed/BwmiqPPEV3Q?feature=oembed&quot; title=&quot;Subway Portrait&quot; width=&quot;750&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://pard.es/wp-content/uploads/2017/05/SubwayPortraitFinal.jpg&quot;&gt;&lt;img src=&quot;http://pard.es/wp-content/uploads/2017/05/SubwayPortraitFinal.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>admin</name></author><category term="SYP Month of Making" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://pard.es/wp-content/uploads/2017/05/SubwayPortraitFinal.jpg" /><media:content medium="image" url="http://pard.es/wp-content/uploads/2017/05/SubwayPortraitFinal.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Day 1</title><link href="http://localhost:4000/brutalist-blog/syp-month-of-making/day-1/" rel="alternate" type="text/html" title="Day 1" /><published>2017-05-01T09:24:35-04:00</published><updated>2017-05-01T09:24:35-04:00</updated><id>http://localhost:4000/brutalist-blog/syp-month-of-making/day-1</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/syp-month-of-making/day-1/">&lt;p&gt;&lt;img src=&quot;http://pard.es/wp-content/uploads/2017/05/1-small.jpg&quot; alt=&quot;Day 1&quot; /&gt;&lt;/p&gt;</content><author><name>dpardes</name></author><category term="SYP Month of Making" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://pard.es/wp-content/uploads/2017/05/1-small.jpg" /><media:content medium="image" url="http://pard.es/wp-content/uploads/2017/05/1-small.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Working at work</title><link href="http://localhost:4000/brutalist-blog/general/working-at-work/" rel="alternate" type="text/html" title="Working at work" /><published>2016-04-06T22:28:20-04:00</published><updated>2016-04-06T22:28:20-04:00</updated><id>http://localhost:4000/brutalist-blog/general/working-at-work</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/general/working-at-work/">&lt;p&gt;Getting work done at work is so hard because of all of those meetings. And so many of them don’t feel like a good use of time. So, I’m working on having fewer unproductive meetings. If you want to meet with me, you’ll have to tell me:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Intent of the meeting (and why it can’t be accomplish asynchronously)&lt;/li&gt;
+  &lt;li&gt;Agenda for the meeting (showing why the length is appropriate)&lt;/li&gt;
+  &lt;li&gt;What I need to do to prepare&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If someone can’t tell me those, I’m declining the meeting. And, of course, because I wouldn’t hold anyone to a standard I don’t hold myself to, I’m not scheduling meetings without providing that information in the invite.&lt;/p&gt;</content><author><name>dpardes</name></author><category term="General" /><category term="Project Management" /><category term="meetings" /><summary type="html">Getting work done at work is so hard because of all of those meetings. And so many of them don’t feel like a good use of time. So, I’m working on having fewer unproductive meetings. If you want to meet with me, you’ll have to tell me:</summary></entry><entry><title type="html">Time is a resource</title><link href="http://localhost:4000/brutalist-blog/agile/pm/time-is-a-resource/" rel="alternate" type="text/html" title="Time is a resource" /><published>2013-12-11T22:36:00-05:00</published><updated>2013-12-11T22:36:00-05:00</updated><id>http://localhost:4000/brutalist-blog/agile/pm/time-is-a-resource</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/agile/pm/time-is-a-resource/">&lt;p&gt;As Project Managers we are taught to “manage resources.” Too often, however, the only resources that are managed are the people. There are others though, and I find the most important and often overlooked is time.&lt;/p&gt;
+
+&lt;p&gt;Time is not the enemy. We don’t fall short of the mark because time ran out on us; time is not an active participant in that way. Sure, it moves without our intervention, but the rate at which it moves shouldn’t be shocking. We fall short because we don’t manage time as the precious resource that it is.&lt;/p&gt;
+
+&lt;p&gt;I find that that most egregious waste of time is right in front of us: MEETINGS! I’ll take another post to address this specifically, but let me know what types of meeting you think are the most wasteful…&lt;/p&gt;</content><author><name>dpardes</name></author><category term="Project Management" /><summary type="html">As Project Managers we are taught to “manage resources.” Too often, however, the only resources that are managed are the people. There are others though, and I find the most important and often overlooked is time.</summary></entry><entry><title type="html">Care where it counts</title><link href="http://localhost:4000/brutalist-blog/agile/care-where-it-counts/" rel="alternate" type="text/html" title="Care where it counts" /><published>2012-08-21T09:45:58-04:00</published><updated>2012-08-21T09:45:58-04:00</updated><id>http://localhost:4000/brutalist-blog/agile/care-where-it-counts</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/agile/care-where-it-counts/">&lt;p&gt;I care a lot. I always assumed my frustration or disappointment at work was because I cared too much. Friends and family always told me that I had to learn to care less. “Leave work at work” was the sage advice I was given again and again. Since you, kind reader, may not know me, allow me to explain: I cannot leave work at work. Work is a part of my life and I can’t stop living a part of my life just because the clock has struck six. I care deeply about the people in my life and our time spent together, even if it’s at work. So, I can’t possibly care less. But I can focus on caring about the right thing.&lt;/p&gt;
+
+&lt;p&gt;Luck and great recruiters have allowed me to work with some of the most talented developers, business analysts, architects, and system administrators in the world. They have all proved to me that there are brilliant people who can do their jobs better than I ever could. But through their eyes, I have learned that I do what I do better than they can. In fact, they rely on me doing a great job so that they can do theirs.&lt;/p&gt;
+
+&lt;p&gt;Because I started as a developer and because of my management training, I’ve wasted a lot of time worried about the how. I, like many other young managers, felt as though the best way to make sure my project got done on time, on budget, and with high quality was to control all the details. As my teams grew and especially as I began to manage multiple teams, it became clear that my detail-control methodology does not scale. To make sure that I can grow as a manager and to make sure that I give my company the most value I can provide, I’ve really started to dig out of the implementation.&lt;/p&gt;
+
+&lt;p&gt;Here’s what I’ve learned for those we are looking to do the same: it’s hard to let go. Those who relied on you to fill in the details will take time to adjust to filling in their own blanks. Know that you will not make the switch flawlessly; you will leave things out of both the details and the greater picture. My advice to get through the setbacks: with each mistake, determine where your care and effort could have been better placed to prevent it. Continuous improvement is the name of the game. Keep the big picture in mind; the light at the end of the tunnel will slowly get bigger. Once you feel the warmth of the light, you will never look back.&lt;/p&gt;</content><author><name>dpardes</name></author><category term="Agile" /><category term="Coaching" /><category term="Project Management" /><summary type="html">I care a lot. I always assumed my frustration or disappointment at work was because I cared too much. Friends and family always told me that I had to learn to care less. “Leave work at work” was the sage advice I was given again and again. Since you, kind reader, may not know me, allow me to explain: I cannot leave work at work. Work is a part of my life and I can’t stop living a part of my life just because the clock has struck six. I care deeply about the people in my life and our time spent together, even if it’s at work. So, I can’t possibly care less. But I can focus on caring about the right thing.</summary></entry><entry><title type="html">There’s more…</title><link href="http://localhost:4000/brutalist-blog/general/theres-more/" rel="alternate" type="text/html" title="There’s more…" /><published>2012-02-24T12:17:25-05:00</published><updated>2012-02-24T12:17:25-05:00</updated><id>http://localhost:4000/brutalist-blog/general/theres-more</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/general/theres-more/">&lt;p&gt;I’ve been working on a few large projects and writing has taken a bit of a backseat. However, I do have several drafts from the past month. I have learned a lot and want to share. More importantly, I’d like to you hear your input; maybe you can help me solve some issues that keep coming up. Posts to come: The Cost of Offshoring IT, Communicating Effectively in Person, Tools – help or hurt.&lt;/p&gt;</content><author><name>dpardes</name></author><category term="General" /><summary type="html">I’ve been working on a few large projects and writing has taken a bit of a backseat. However, I do have several drafts from the past month. I have learned a lot and want to share. More importantly, I’d like to you hear your input; maybe you can help me solve some issues that keep coming up. Posts to come: The Cost of Offshoring IT, Communicating Effectively in Person, Tools – help or hurt.</summary></entry><entry><title type="html">Meetings don’t have to suck</title><link href="http://localhost:4000/brutalist-blog/c-level/meetings-dont-have-to-suck/" rel="alternate" type="text/html" title="Meetings don’t have to suck" /><published>2012-01-31T03:01:36-05:00</published><updated>2012-01-31T03:01:36-05:00</updated><id>http://localhost:4000/brutalist-blog/c-level/meetings-dont-have-to-suck</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/c-level/meetings-dont-have-to-suck/">&lt;p&gt;I have been preaching for a long time that meetings don’t have to suck. I’ve been a part of some great meetings. All the great meetings that I have been a part of have a few things in common:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Short (30 minutes or under)&lt;/li&gt;
+  &lt;li&gt;Small (There should be no more than 6 or 8 people)&lt;/li&gt;
+  &lt;li&gt;Life Changing (Unless something is going to change, there is no reason to meet)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is not to say that a there are not exceptions to the points above, but 99.99% of the time, they are true. Also, when leaving a good meeting, I want to work more. Good meetings inspire instead of discourage.&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago, the &lt;a href=&quot;http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2012/01/09/businessinsiderthis-is-how-larry-pa.DTL&quot;&gt;San Francisco Chronicle published an article&lt;/a&gt; about how Larry Page mandated some changes to meetings at Google. The great thing about a CEO making changes like this is that he can follow through. Not only did he make meetings hinge on decisions, but he gave his employees the ability to decide. He went so far as to reorganize the company to make sure that each product has one person who is available to make hard decisions. One day, I hope to run a company like Mr. Page. Companies and employees should not be scared to make decisions.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-only-bad-decision-is-deciding-not-to-make-one&quot;&gt;The only bad decision is deciding not to make one.&lt;/h4&gt;</content><author><name>dpardes</name></author><category term="C Level" /><summary type="html">I have been preaching for a long time that meetings don’t have to suck. I’ve been a part of some great meetings. All the great meetings that I have been a part of have a few things in common:</summary></entry><entry><title type="html">Stop managing and start helping</title><link href="http://localhost:4000/brutalist-blog/agile/stop-managing-and-start-helping/" rel="alternate" type="text/html" title="Stop managing and start helping" /><published>2012-01-27T03:41:26-05:00</published><updated>2012-01-27T03:41:26-05:00</updated><id>http://localhost:4000/brutalist-blog/agile/stop-managing-and-start-helping</id><content type="html" xml:base="http://localhost:4000/brutalist-blog/agile/stop-managing-and-start-helping/">&lt;p&gt;Last week, I read an old blog post on As &lt;a href=&quot;http://christopherdaily.com/2011/06/30/how-do-i-start-being-agile-getting-started/&quot;&gt;Chris Daily&lt;/a&gt; said, people need to “let go of the perception that they are in charge. In reality, you were never in charge, but you told everyone you were.” His words sat with me while I did my usual routine in trying to shepherd code from development to release. I paid attention to how much time I spent “micro-managing.” It was too much.&lt;/p&gt;
+
+&lt;p&gt;So, today I stepped back officially from my “managing” of the team. After only their second sprint it was obvious that they don’t need me to manage them; they manage themselves. I should be spending my time helping them get work done, not supervising or making their decisions.&lt;/p&gt;
+
+&lt;p&gt;Next week I’m going to be doing more of MY job (not theirs). My job is to coach. I am excited to coach with such a talented and devoted team.&lt;/p&gt;</content><author><name>dpardes</name></author><category term="Agile" /><category term="Coaching" /><category term="Scrum Master" /><category term="Advocate" /><category term="Bulldozer" /><category term="Tools" /><summary type="html">Last week, I read an old blog post on As Chris Daily said, people need to “let go of the perception that they are in charge. In reality, you were never in charge, but you told everyone you were.” His words sat with me while I did my usual routine in trying to shepherd code from development to release. I paid attention to how much time I spent “micro-managing.” It was too much.</summary></entry></feed>
