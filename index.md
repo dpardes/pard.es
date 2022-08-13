@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 date: '2012-01-31T03:07:09-05:00'
 author: dpardes
 layout: page
