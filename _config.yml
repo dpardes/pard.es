@@ -27,7 +27,7 @@ url: https://dpardes.github.io/pard.es/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: /
+baseurl: /pard.es/
 
 # global author information
 author: dpardes
