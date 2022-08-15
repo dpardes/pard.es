@@ -9,4 +9,4 @@ This is a [Choose Your Own Adventure](https://en.wikipedia.org/wiki/Choose_Your_
 
 If you choose to view the résumé as a Google Doc, [click here](https://docs.google.com/document/d/1bgqSUkzP-oOcGKF5QKFbCwRCQDylRXgEKUx9Bs8pkcI/edit#heading=h.eh578fcpfwiz){:target="_blank"}.
 
-If you choose to download the résumé as a PDF, [click here](/assets/Daniel-Pardes-Product-Leader-Re%CC%81sume%CC%81-2021.pdf){:target="_blank"}.
+If you choose to download the résumé as a PDF, [click here](/assets/Daniel-Pardes-Product-Leader-Resume-2021.pdf){:target="_blank"}.
